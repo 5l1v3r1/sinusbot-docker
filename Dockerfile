@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER risosw <dockerfile@ricosw.de>
+MAINTAINER ricosw <dockerfile@ricosw.de>
 
 ENV SINUS_USER="sinusbot" \
     SINUS_GROUP="sinusbot" \
